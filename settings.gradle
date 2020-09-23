@@ -1,0 +1,2 @@
+rootProject.name='CashFreeTes'
+include ':app'
